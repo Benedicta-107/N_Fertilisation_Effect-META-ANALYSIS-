@@ -2,7 +2,7 @@
 A Meta-Analysis on the effects of nitrogen fertilisation and fungicide on yield and fungal diseases of major crops
 
 ## Summary
-This project explores the effects of nitrogen (N) fertilization on the incidence of fungal diseases across major cereal crops. The analysis is based on over 200 data points extracted from global literature sources and conducted as part of my Master’s degree research using R and Excel.
+This project explores the effects of nitrogen (N) fertilization on the incidence of fungal diseases across major cereal crops. The analysis is based on over 2000 data points extracted from global literature sources and conducted as part of my Master’s degree research using R and Excel.
 
 ## Tools Used
 - R and R packages
